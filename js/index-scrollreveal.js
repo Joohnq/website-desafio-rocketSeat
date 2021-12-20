@@ -9,22 +9,27 @@ window.sr = ScrollReveal();
 
     sr.reveal('.content-principal', {
         duration: 1000,
+        origin: 'top'
     });
 
     sr.reveal('#importancia', {
         duration: 1000,
+        origin: 'top'
     });
 
     sr.reveal('#investimentos', {
         duration: 2000,
+        origin: 'top'
     });
 
     sr.reveal('#ead', {
         duration: 1000,
+        origin: 'top'
     });
 
     sr.reveal('#gamificacao', {
         duration: 1000,
+        origin: 'top'
     });
 
     //Page QuemSouEu
@@ -32,5 +37,4 @@ window.sr = ScrollReveal();
     sr.reveal('.main__quemsoueu', {
         duration: 2000,
         origin: 'top',
-        distance: '100px'
     });       
