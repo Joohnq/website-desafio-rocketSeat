@@ -38,8 +38,6 @@ html.dark-mode{
 body{
     background-color: var(--background);
     max-width: 100%;
-
-    overflow-x: hidden; 
 }
 
 h1,h2,a{

@@ -9,31 +9,22 @@ window.sr = ScrollReveal();
 
     sr.reveal('.content-principal', {
         duration: 1000,
-        origin: 'bottom',
     });
 
     sr.reveal('#importancia', {
-        duration: 2000,
-        origin: 'left',
-        distance: '300px'
+        duration: 1000,
     });
 
     sr.reveal('#investimentos', {
         duration: 2000,
-        origin: 'bottom',
-        distance: '300px'
     });
 
     sr.reveal('#ead', {
-        duration: 2000,
-        origin: 'right',
-        distance: '300px'
+        duration: 1000,
     });
 
     sr.reveal('#gamificacao', {
-        duration: 2000,
-        origin: 'top',
-        distance: '300px'
+        duration: 1000,
     });
 
     //Page QuemSouEu
