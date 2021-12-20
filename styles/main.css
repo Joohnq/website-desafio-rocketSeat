@@ -733,6 +733,10 @@ footer h3{
 /*     MAX-WIDTH 600PX     */
 @media (max-width: 600px){
 
+    body{
+        overflow-y: hidden;
+    }
+
     /*     HEADER     */
     .title__content{
         font-size: 42px
