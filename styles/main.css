@@ -108,6 +108,10 @@ strong{
     gap: 20px;
 }
 
+.nav__link a{
+    color: var(--second-color);
+}
+
 .nav__list a:hover{
     color: var(--third-color);    
 
@@ -180,8 +184,6 @@ strong{
     height: 60px;
 
     border-radius: 50px; 
-    
-    cursor: pointer;
 }
 
 .button__content h2{
@@ -588,7 +590,7 @@ footer h3{
 
         border-radius: 5px 0 0 50px;
 
-        overflow: hidden;
+        overflow-y: hidden;
     }
 
     .navbar__toggle{
