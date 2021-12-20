@@ -587,6 +587,8 @@ footer h3{
         z-index: 1000;
 
         border-radius: 5px 0 0 50px;
+
+        overflow: hidden;
     }
 
     .navbar__toggle{
