@@ -733,10 +733,6 @@ footer h3{
 /*     MAX-WIDTH 600PX     */
 @media (max-width: 600px){
 
-    body{
-        overflow-y: hidden;
-    }
-
     /*     HEADER     */
     .title__content{
         font-size: 42px
@@ -752,7 +748,7 @@ footer h3{
     }
 
     #importancia .description{
-        width: 80%;
+        width: 90%;
     }
 
     /*     EAD     */
@@ -780,7 +776,7 @@ footer h3{
 
     /*     HEADER     */
     .title__content{
-        font-size: 40px;
+        font-size: 35px;
         line-height: 43px;
     } 
     
@@ -795,7 +791,7 @@ footer h3{
     }
 
     /*     IMPORTÂNCIA     */
-    #importancia .description{
+    .description{
         width: 80%;
     }
 
@@ -820,13 +816,31 @@ footer h3{
 @media (max-width: 400px){
     /*     HEADER     */
     .title__content{
-        font-size: 36px;
+        font-size: 31px;
     } 
+
+    .subtitle__content{
+        font-size: 14px;
+    }
+
+    .description{
+        font-size: 15px;
+    }
 
     /*     CONTENT     */
     .content h2{
-        font-size: 45px;
+        font-size: 40px;
     }
+
+    /*     FOOTER     */
+    footer h2{
+        font-size: 30px;
+    }
+
+    footer h3{
+        font-size: 17px;
+    }
+
 }
 
 
