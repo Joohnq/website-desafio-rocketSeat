@@ -829,7 +829,7 @@ footer h3{
 @media (max-width: 400px){
     /*     HEADER     */
     .title__content{
-        font-size: 31px;
+        font-size: 32px;
     } 
 
     .subtitle__content{
@@ -856,10 +856,10 @@ footer h3{
 
 }
 
-/*     MAX-WIDTH 400PX     */
-@media (max-width: 400px){
+/*     MAX-WIDTH 300PX     */
+@media (max-width: 300px){
     .title__content{
-        font-size: 26px;
+        font-size: 20px;
     }     
 
     .subtitle__content{
