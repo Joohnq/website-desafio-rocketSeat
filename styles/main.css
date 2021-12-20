@@ -786,6 +786,10 @@ footer h3{
         margin-bottom: 10px;
     }
 
+    .description{
+        font-size: 16px;
+    }
+
     /*     IMPORTÂNCIA     */
     #importancia .description{
         width: 80%;
@@ -807,6 +811,20 @@ footer h3{
 
 
 }
+
+/*     MAX-WIDTH 400PX     */
+@media (max-width: 400px){
+    /*     HEADER     */
+    .title__content{
+        font-size: 36px;
+    } 
+
+    /*     CONTENT     */
+    .content h2{
+        font-size: 45px;
+    }
+}
+
 
 
 /*     MEDIA HEIGHT     */
