@@ -22,8 +22,7 @@ html.dark-mode{
     --background: #141414;
     --fourth-color: #ffffff;
     --yellow-light: #f5f749;
-    --strong: #00bfff;
-    
+    --strong: #00bfff; 
 }
 
 *{
@@ -840,6 +839,17 @@ footer h3{
         font-size: 17px;
     }
 
+}
+
+/*     MAX-WIDTH 400PX     */
+@media (max-width: 400px){
+    .title__content{
+        font-size: 26px;
+    }     
+
+    .subtitle__content{
+        font-size: 12px;
+    }
 }
 
 
