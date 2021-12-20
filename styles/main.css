@@ -597,8 +597,8 @@ footer h3{
         display: block;
         position: absolute;
 
-        bottom: 40px;
-        left: 40px;
+        top: 40px;
+        right: 30px;
 
         font-size: 40px;
 
