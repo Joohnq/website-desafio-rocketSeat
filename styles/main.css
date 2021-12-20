@@ -512,6 +512,9 @@ footer h3{
     }
 
     /*     INVESTIMENTOS     */
+    #investimentos{
+        margin-top: -70px;
+    }
     #investimentos .boxs__investimentos{
         display: flex;
         align-items: center;
@@ -522,6 +525,10 @@ footer h3{
     }
 
     /*     EAD     */
+    #ead{
+        margin-top: -50px;
+    }
+
     #ead .image__ilustrativa{
         max-width: 55%;
     }
@@ -531,6 +538,10 @@ footer h3{
     }
 
     /*     GAMIFICAÇÃO     */
+    #gamificacao{
+        margin-top: -60px;
+    }
+
     #gamificacao .image__ilustrativa{
         max-width: 50%; 
         
