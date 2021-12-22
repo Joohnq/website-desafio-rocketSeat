@@ -92,9 +92,9 @@ strong{
 }
 
 .nav__logo{
-    width: 90px;
+    width: 70px;
 
-    margin: 20px 0 0 30px;
+    margin: 20px 0 0 10px;
 }
 
 .nav__menu{
@@ -575,7 +575,7 @@ footer h3{
 
     /*     HEADER     */
     #nav.active #nav__menu{
-        display: flex;
+        display: block;
     }
 
     .navbar__toggle{
