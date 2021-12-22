@@ -3,9 +3,19 @@ const navbarClose = document.getElementById('navbar__close');
 const navLink = document.querySelectorAll('.nav__link')
 const button = document.getElementById('button')
 
-function toggleMenu() {
-    const nav = document.getElementById('nav')  
-    nav.classList.toggle('active')  
+function navBarToggle() {
+    const nav = document.getElementById('nav')   
+    const body = document.querySelector('body')
+    nav.classList.add('active')
+    body.style.overflow = 'hidden'
+    
+}
+
+function navBarClose() {
+    const nav = document.getElementById('nav') 
+    const body = document.querySelector('body')  
+    nav.classList.remove('active')
+    body.style.overflow = 'visible'    
 }
 
 function darkMode(){
@@ -13,9 +23,10 @@ function darkMode(){
     html.classList.toggle('dark-mode') 
 }
 
-navbarToggle.addEventListener('click', toggleMenu);
+navbarToggle.addEventListener('click', 
+navBarToggle);
 
-navbarClose.addEventListener('click', toggleMenu);
+navbarClose.addEventListener('click', navBarClose);
 
 button.addEventListener('click', darkMode);
 

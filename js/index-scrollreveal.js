@@ -4,10 +4,9 @@ window.sr = ScrollReveal();
     sr.reveal('.nav', {
         duration: 2000,
         origin: 'top',
-        distance: '50px'
     });
 
-    sr.reveal('.content-principal', {
+    sr.reveal('.content__principal', {
         duration: 1000,
         origin: 'top'
     });
