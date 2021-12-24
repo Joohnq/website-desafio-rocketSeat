@@ -83,7 +83,7 @@ body{
 
 
 main{
-    background: url(/images/background-ticket-desktop.png); 
+    background: url(../images/background-ticket-desktop.png); 
     width: 358px;
     height: 524px;
 
