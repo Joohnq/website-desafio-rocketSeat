@@ -1,6 +1,6 @@
 <h1 align="center">WebSite Desafio RocketSeat</h1>
 <p align="center">Desenvolvido por: João Henrique de Souza Silva</p>
-<h2 align="center">Objetivo: Desenvolver um Web-site com soluções para o acessoa á educação com o auxílio da tecnologia</h2> 
+<h2 align="center">Objetivo: Desenvolver um Web-site com soluções para o acesso á educação com o auxílio da tecnologia</h2> 
 <br>
 <img src="https://user-images.githubusercontent.com/72231799/146696511-f1e9819c-e427-434e-bf19-f2b6ab05b252.png">
 <a href="https://joohnq.github.io/website-desafio-rocketSeat/" target="_blank">Acesse Aqui</a>
