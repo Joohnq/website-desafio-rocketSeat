@@ -3,7 +3,7 @@
 <h2 align="center">Objetivo: Desenvolver um Web-site com soluções para o acessoa á educação com o auxílio da tecnologia</h2> 
 <br>
 <img src="https://user-images.githubusercontent.com/72231799/146696511-f1e9819c-e427-434e-bf19-f2b6ab05b252.png">
-<a href="https://joohnq.github.io/website-desafio-rocketSeat/" target="__blank">Acesse Aqui</a>
+<a href="https://joohnq.github.io/website-desafio-rocketSeat/" target="_blank">Acesse Aqui</a>
 
 <h2>Linguagens Usada:</h2>
 <div>
