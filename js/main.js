@@ -30,6 +30,6 @@ navbarClose.addEventListener('click', navBarClose);
 
 button.addEventListener('click', darkMode);
 
-navLink.forEach(n => n.addEventListener('click', toggleMenu));
+navLink.forEach(n => n.addEventListener('click', navBarClose));
 
 
